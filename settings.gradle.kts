@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GroovyDSLToKotlinDSL"
-include ':app'
+include(":app")
 
